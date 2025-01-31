@@ -5,7 +5,7 @@ Includes all regression analysis did for my Projects
 
 This repository contains a Python script for performing Logistic Regression analysis using the Iris dataset. Logistic Regression is a statistical method for predicting binary outcomes.
 
-Features
+# Features
 
 Loads the Iris dataset
 
@@ -17,7 +17,7 @@ Evaluates model performance using accuracy, confusion matrix, and classification
 
 Visualizes the confusion matrix
 
-Requirements
+# Requirements
 
 Ensure you have the following dependencies installed:
 
@@ -29,7 +29,7 @@ Run the Python script to perform logistic regression analysis:
 
 python logistic_regression.py
 
-Output
+# Output
 
 Model accuracy
 
